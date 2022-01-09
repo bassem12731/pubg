@@ -1,5 +1,5 @@
 <?php
-include 'system/setting.php';
+include 'system/sett.php';
 include 'email.php';
 
 $user = new get_flag();
